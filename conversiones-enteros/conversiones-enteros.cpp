@@ -12,7 +12,27 @@
  *       directorio.
 \********************************************************************************/
 
+#include <cctype>
 #include "../../practica3/calculadora/calculos.h"
+
+using namespace std;
+
+/*
+ * Pre:  ---
+ * Post: Si «c» es un carácter que representa un dígito entonces 
+ *       devuelve el valor numérico comprendido entre 0 y 9
+ *       representado por «c»;
+ *       en otro caso devuelve un valor negativo.
+ */
+int valorDigito(const char c) {
+    if (isdigit(c)) {
+        return c - '0';
+    }
+    else {
+        return -1;
+    }
+}
+
 
 /*
   * Pre:  «cadena» almacena una secuencia de caracteres que representan

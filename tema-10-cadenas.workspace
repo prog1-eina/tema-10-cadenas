@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="tema-10-cadenas" Database="" Version="10.0.0">
   <Project Name="02-funciones-cstring" Path="funciones-cstring/funciones-cstring.project" Active="No"/>
-  <Project Name="03-conversiones-enteros" Path="conversiones-enteros/conversiones-enteros.project" Active="No"/>
-  <Project Name="01-nombre" Path="nombre/nombre.project" Active="Yes"/>
+  <Project Name="03-conversiones-enteros" Path="conversiones-enteros/conversiones-enteros.project" Active="Yes"/>
+  <Project Name="01-nombre" Path="nombre/nombre.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
