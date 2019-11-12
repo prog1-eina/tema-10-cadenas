@@ -1,4 +1,4 @@
-﻿/********************************************************************************
+﻿/********************************************************************************\
  * Curso de Programación 1. Tema 10 (Caracteres y cadenas de caracteres)
  * Autores: Javier Martínez y Miguel Ángel Latre
  * Última revisión: 31 de octubre de 2019
@@ -19,9 +19,8 @@ using namespace std;
 
 /*
  * Pre:  ---
- * Post: Si «c» es un carácter que representa un dígito entonces 
- *       devuelve el valor numérico comprendido entre 0 y 9
- *       representado por «c»;
+ * Post: Si «c» es un carácter que representa un dígito entonces devuelve el valor
+ *       numérico comprendido entre 0 y 9 representado por «c»;
  *       en otro caso devuelve un valor negativo.
  */
 int valorDigito(const char c) {
@@ -35,13 +34,13 @@ int valorDigito(const char c) {
 
 
 /*
-  * Pre:  «cadena» almacena una secuencia de caracteres que representan
-  *       literalmente un entero con la siguiente sintaxis:
-  *         <literal_entero> ::= [<signo>] <dígito> { <dígito> }
-  *         <signo> ::= “+”  | “-”
-  *         <dígito> ::= “0” | “1” | “2” | “3” | “4” | “5” | “6” | “7” | “8” | “9”
-  * Post: Ha devuelto el valor entero representado en «cadena».
-  */
+ * Pre:  «cadena» almacena una secuencia de caracteres que representan
+ *       literalmente un entero con la siguiente sintaxis:
+ *         <literal_entero> ::= [<signo>] <dígito> { <dígito> }
+ *         <signo> ::= “+”  | “-”
+ *         <dígito> ::= “0” | “1” | “2” | “3” | “4” | “5” | “6” | “7” | “8” | “9”
+ * Post: Ha devuelto el valor entero representado en «cadena».
+ */
 int valorEntero(const char cadena[]) {
     int i = 0;
     int signo = 1;
