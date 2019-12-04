@@ -57,8 +57,7 @@ int valorEntero(const char cadena[]) {
     // cadena[i] es un dígito
     int valor = 0;
     while (cadena[i] != '\0') {
-        int valorDigito = cadena[i] - '0';
-        valor = 10 * valor + valorDigito;
+        valor = 10 * valor + valorDigito(cadena[i]);
         i = i + 1;
     }
     // cadena[i] == '\0';
