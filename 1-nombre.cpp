@@ -7,6 +7,7 @@
 \******************************************************************************/
 #include <iostream>
 #include <string>
+#include <cctype>
 using namespace std;
 
 /*
@@ -17,8 +18,10 @@ int main() {
     string nombre, apellido;
     cout << "Escribe tu nombre de pila: ";
     cin >> nombre;
+    nombre.at(0) = toupper(nombre.at(0));
     cout << "Escribe tu primer apellido: ";
     cin >> apellido;
+    apellido.at(0) = toupper(apellido.at(0));
     
     cout << "Hola, " << nombre << endl;
     cout << "Tu nombre empieza por la letra " << nombre[0] << "." << endl;
