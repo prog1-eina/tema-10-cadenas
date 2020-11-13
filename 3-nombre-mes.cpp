@@ -19,8 +19,17 @@ const unsigned int NUM_MESES = 12;
  */
 void escribirNombreMes(const unsigned int mes) {
     const string NOMBRES_MES[NUM_MESES] = { "ENERO",
-            "FEBRERO", "MARZO", "ABRIL", "MAYO", "JUNIO", "JULIO", "AGOSTO",
-            "SEPTIEMBRE", "OCTUBRE", "NOVIEMBRE", "DICIEMBRE" };
+                                            "FEBRERO", 
+                                            "MARZO", 
+                                            "ABRIL", 
+                                            "MAYO", 
+                                            "JUNIO", 
+                                            "JULIO", 
+                                            "AGOSTO",
+                                            "SEPTIEMBRE", 
+                                            "OCTUBRE", 
+                                            "NOVIEMBRE", 
+                                            "DICIEMBRE" };
     cout << NOMBRES_MES[mes - 1];
 }
 
