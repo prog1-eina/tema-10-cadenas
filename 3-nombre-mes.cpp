@@ -8,7 +8,7 @@
 #include <string>
 using namespace std;
 
-const unsigned int NUM_MESES = 12;
+const unsigned NUM_MESES = 12;
 
 /*
  * Pre:  1 ≤ mes ≤ 12
@@ -17,7 +17,7 @@ const unsigned int NUM_MESES = 12;
  * Nota: Este código lo podrás comprender adecuadamente cuando hayamos visto
  *       los temas 9 (vectores) y 10 (cadenas de caracteres).
  */
-void escribirNombreMes(const unsigned int mes) {
+void escribirNombreMes(const unsigned mes) {
     const string NOMBRES_MES[NUM_MESES] = { "ENERO",
                                             "FEBRERO", 
                                             "MARZO", 
