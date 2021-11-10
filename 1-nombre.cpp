@@ -1,4 +1,4 @@
-/*******************************************************************************
+/******************************************************************************\
  * Curso de Programación 1. Tema 10 (Caracteres y cadenas de caracteres)
  * Autores: Miguel Ángel Latre
  * Última revisión: 7 de noviembre de 2020
