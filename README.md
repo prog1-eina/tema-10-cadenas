@@ -4,7 +4,7 @@ Código del tema 10 (caracteres y cadenas de caracteres) de la asignatura [Progr
 
 ## Compilación y ejecución
 
-Cada fichero de este repositorio contiene un programa completo, por lo que pueden compilarse y ejecutarse con la extensión Run Code de Visual Studio Code.
+Cada fichero de este repositorio contiene un programa completo, por lo que pueden compilarse y ejecutarse con la extensión Code Runner de Visual Studio Code.
 
 También pueden compilarse y ejecutarse desde la terminal través de las órdenes descritas en el encabezado de cada fichero.
 

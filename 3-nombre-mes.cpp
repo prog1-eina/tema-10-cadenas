@@ -4,7 +4,7 @@
  * Última revisión: 7 de noviembre de 2020
  * Resumen: Código de ejemplo de un vector de cadenas de caracteres.
  * Nota: El programa completo está contenido en este fichero, por lo que puede 
- *       compilarse y ejecutarse con la extensión Run Code de Visual Studio 
+ *       compilarse y ejecutarse con la extensión Code Runner de Visual Studio 
  *       Code.
  *       También puede compilarse desde la terminal través de la orden
  *           g++ -Wall -Wextra 3-nombre-mes.cpp -o 3-nombre-mes

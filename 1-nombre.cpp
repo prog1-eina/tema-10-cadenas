@@ -5,7 +5,7 @@
  * Resumen: Primer ejemplo de trabajo con cadenas de caracteres almacenadas en
  *          variables de tipo vectores de caracteres.
  * Nota: El programa completo está contenido en este fichero, por lo que puede 
- *       compilarse y ejecutarse con la extensión Run Code de Visual Studio 
+ *       compilarse y ejecutarse con la extensión Code Runner de Visual Studio 
  *       Code.
  *       También puede compilarse desde la terminal través de la orden
  *           g++ -Wall -Wextra 1-nombre.cpp -o 1-nombre
