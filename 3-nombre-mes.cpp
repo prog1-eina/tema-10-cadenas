@@ -1,7 +1,7 @@
 /******************************************************************************\
  * Curso de Programación 1. Tema 10 (caracteres y cadenas)
  * Autores: Miguel Ángel Latre
- * Última revisión: 7 de noviembre de 2020
+ * Última revisión: 3 de noviembre de 2022
  * Resumen: Código de ejemplo de un vector de cadenas de caracteres.
  * Nota: El programa completo está contenido en este fichero, por lo que puede 
  *       compilarse y ejecutarse con la extensión Code Runner de Visual Studio 
@@ -21,7 +21,7 @@ const unsigned NUM_MESES = 12;
 
 /*
  * Pre:  1 ≤ mes ≤ 12
- * Post: Ha escrito en la pantalla el nombre (en mayúsculas) del mes
+ * Post: Escribe en la pantalla el nombre (en mayúsculas) del mes
  *       correspondiente al valor del parámetro «mes».
  * Nota: Este código lo podrás comprender adecuadamente cuando hayamos visto
  *       los temas 9 (vectores) y 10 (cadenas de caracteres).
