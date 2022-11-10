@@ -4,15 +4,15 @@
  * Última revisión: 7 de noviembre de 2020
  * Resumen: Primer ejemplo de trabajo con cadenas de caracteres almacenadas en
  *          variables de tipo vectores de caracteres.
- * Nota: El programa completo está contenido en este fichero, por lo que puede 
- *       compilarse y ejecutarse con la extensión Code Runner de Visual Studio 
- *       Code.
- *       También puede compilarse desde la terminal través de la orden
- *           g++ -Wall -Wextra 1-nombre.cpp -o 1-nombre
- *       y ejecutarse en Windows a través de la orden
- *           .\1-nombre.exe
- *       o en Linux y macOS
- *           ./1-nombre
+ * Nota: El programa completo está contenido en este fichero, por lo que puede 
+ *       compilarse y ejecutarse con la extensión Code Runner de Visual Studio 
+ *       Code.
+ *       También puede compilarse desde la terminal través de la orden
+ *           g++ -Wall -Wextra 1-nombre.cpp -o 1-nombre
+ *       y ejecutarse en Windows a través de la orden
+ *           .\1-nombre.exe
+ *       o en Linux y macOS
+ *           ./1-nombre
 \******************************************************************************/
 #include <iostream>
 #include <string>
