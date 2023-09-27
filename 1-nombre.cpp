@@ -42,8 +42,7 @@ int main() {
     }
     else if (nombre < "Miguel") {
         cout << "Tu nombre va alfabéticamente antes que el mío." << endl;
-    }
-    else {
+    } else {
         cout << "Tu nombre va alfabéticamente después del mío." << endl;
     }
 

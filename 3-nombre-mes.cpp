@@ -56,8 +56,7 @@ int main() {
         escribirNombreMes(mes);
         cout << "." << endl;
         return 0;
-    }
-    else {
+    } else {
         cout << "El número tiene que estar entre 1 y 12." << endl;
         return 1;
     }
