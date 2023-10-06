@@ -39,8 +39,7 @@ int main() {
 
     if (nombre == "Miguel") {
         cout << "Te llamas como yo." << endl;
-    }
-    else if (nombre < "Miguel") {
+    } else if (nombre < "Miguel") {
         cout << "Tu nombre va alfabéticamente antes que el mío." << endl;
     } else {
         cout << "Tu nombre va alfabéticamente después del mío." << endl;
