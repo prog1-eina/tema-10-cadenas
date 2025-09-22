@@ -1,4 +1,4 @@
-/******************************************************************************\
+/******************************************************************************
  * Curso de Programación 1. Tema 10 (caracteres y cadenas)
  * Autores: Miguel Ángel Latre
  * Última revisión: 3 de noviembre de 2022
@@ -12,7 +12,7 @@
  *           .\3-nombre-mes.exe
  *       o en Linux y macOS
  *           ./3-nombre-mes
-\******************************************************************************/
+ *****************************************************************************/
 #include <iostream>
 #include <string>
 using namespace std;

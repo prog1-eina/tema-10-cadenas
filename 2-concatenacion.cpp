@@ -1,4 +1,4 @@
-/******************************************************************************\
+/******************************************************************************
  * Curso de Programación 1. Tema 10 (caracteres y cadenas)
  * Autores: Miguel Ángel Latre
  * Última revisión: 7 de noviembre de 2020
@@ -13,7 +13,7 @@
  *           .\2-concatenacion.exe
  *       o en Linux y macOS
  *           ./2-concatenacion
-\******************************************************************************/
+ *****************************************************************************/
 #include <iostream>
 #include <string>
 using namespace std;
