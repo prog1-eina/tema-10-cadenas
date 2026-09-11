@@ -1,7 +1,6 @@
 /******************************************************************************
  * Curso de Programación 1. Tema 10 (caracteres y cadenas)
  * Autores: Miguel Ángel Latre
- * Última revisión: 7 de noviembre de 2020
  * Resumen: Código de ejemplo de utilización de los operadores de concatenación
  *          de cadenas de caracteres.
  * Nota: El programa completo está contenido en este fichero, por lo que puede 

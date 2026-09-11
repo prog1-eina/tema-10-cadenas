@@ -1,7 +1,6 @@
 /******************************************************************************
  * Curso de Programación 1. Tema 10 (caracteres y cadenas)
  * Autores: Miguel Ángel Latre
- * Última revisión: 3 de noviembre de 2022
  * Resumen: Código de ejemplo de un vector de cadenas de caracteres.
  * Nota: El programa completo está contenido en este fichero, por lo que puede 
  *       compilarse y ejecutarse con la extensión Code Runner de Visual Studio 

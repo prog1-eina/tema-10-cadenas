@@ -1,7 +1,6 @@
 /******************************************************************************
  * Curso de Programación 1. Tema 10 (Caracteres y cadenas de caracteres)
  * Autores: Miguel Ángel Latre
- * Última revisión: 7 de noviembre de 2020
  * Resumen: Primer ejemplo de trabajo con cadenas de caracteres almacenadas en
  *          variables de tipo vectores de caracteres.
  * Nota: El programa completo está contenido en este fichero, por lo que puede 
